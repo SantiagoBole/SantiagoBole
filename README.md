@@ -13,7 +13,7 @@ Tecnologías y habilidades:
 
   <h3>Contáctame</h3>
   <a href="https://www.linkedin.com/in/santiago-bole-b51aa7341"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL"></a>
-  <a href="santiagoezequielbole@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"></a>
+  <a href="mailto:santiagoezequielbole@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"></a>
 
 <!---
 SantiagoBole/SantiagoBole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
