@@ -1,4 +1,4 @@
-<H1>Santiago Bole - Full-Stack Developer 🚀</h1>
+<H1>Santiago Bole</h1>
 <h2>Estudiante de una Tecnicatura Informática.</h2>
 <hr>
 Un programador Junior centrado en las tecnologías BackEnd e implementación de bases de datos en Desarrollos Web y Aplicaciones.
